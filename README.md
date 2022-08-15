@@ -1,21 +1,26 @@
-<center>
-<h1>Hi there, I'm <a href="https://github.com/daridakr/my-resume" target="_blank">Daria</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/daridakr/my-resume" target="_blank">Daria</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3>Young and creative Junior Unity Developer from Belarus 🇧🇾</h3>
+<h3 align="center">Young and creative Junior Unity Developer from Belarus 🇧🇾</h3>
 
+<p align="center">
 <a href="https://t.me/dkrivush"> Blog </a> • <a href="https://www.youtube.com/channel/UC1LQPG64CmNDyv7Q5k931AQ"> Youtube </a> • <a href="https://github.com/daridakr/my-resume"> Resume </a>
+</p>
 
 <br>
 
+<p align="center">
 <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/unity.svg" />
+</p>
 
 <br>
 
+<div align="center">
+
 [![codewars](https://www.codewars.com/users/d.krivushkina/badges/small)](https://www.codewars.com/users/d.krivushkina)
 ![](https://komarev.com/ghpvc/?username=your-github-daridakr)
-</center>
+</div>
 
 <br>
 
@@ -33,11 +38,10 @@
 
 <br>
 
-<center>
+<div align="center">
 
 [![General badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dashkrv)
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/дарья-кривушкина-3b31ab246/)
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.krivushkina@gmail.com)
-</center>
-
+</div>
 
