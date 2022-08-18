@@ -14,21 +14,15 @@
 <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/unity.svg" />
 </p>
 
-<br>
 
-<div align="center">
-
-[![codewars](https://www.codewars.com/users/d.krivushkina/badges/small)](https://www.codewars.com/users/d.krivushkina)
-![](https://komarev.com/ghpvc/?username=your-github-daridakr)
-</div>
 
 <br>
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning <b> Unity, Design patterns and Git </b>
+- 🌱 I’m currently learning <b> Unity, Design patterns and Git </b> and
+- 🔍 Looking for <b> work in Poland </b> 🇵🇱
 - 📝 I write a blog on <a href="https://t.me/dkrivush"> Telegram (Ru) </a>
 
-- 🔍 <b> Looking for work in Poland </b> 🇵🇱
 - 📫 How to reach me <a href="mailto:d.krivushkina@gmail.com"> d.krivushkina@gmail.com </a>
 - ⚡ Fun fact: When I was five I told my parents that I wanted to develop games.
 
@@ -45,3 +39,7 @@
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.krivushkina@gmail.com)
 </div>
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=your-github-daridakr&style=flat-square)
+</div>
