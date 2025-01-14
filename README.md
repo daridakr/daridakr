@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/daridakr/my-resume" target="_blank">Daria</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Young and creative Junior Unity Developer from Belarus 🇧🇾</h3>
+<h3 align="center">Young and creative Unity Developer</h3>
 
 <p align="center">
 <a href="https://t.me/dkrivush"> Blog </a> • <a href="https://www.youtube.com/channel/UC1LQPG64CmNDyv7Q5k931AQ"> Youtube </a> • <a href="https://github.com/daridakr/my-resume"> Resume </a>
@@ -19,9 +19,7 @@
 <br>
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning <b> Unity, Design patterns and Git </b> and
-- 🔍 Looking for <b> work in Poland </b> 🇵🇱
-- 📝 I write a blog on <a href="https://t.me/dkrivush"> Telegram (Ru) </a>
+- ⚙️ I’m currently working remotely on an exciting AI project — mobile game with AI NPC </b> and
 
 - 📫 How to reach me <a href="mailto:d.krivushkina@gmail.com"> d.krivushkina@gmail.com </a>
 - ⚡ Fun fact: When I was five I told my parents that I wanted to develop games.
