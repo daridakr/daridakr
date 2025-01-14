@@ -19,7 +19,7 @@
 <br>
 
 <!-- - 🔭 I’m currently working on ... -->
-- ⚙️ I’m currently working remotely on an exciting AI project — mobile game with AI NPC </b> and
+- ⚙️ I’m currently working remotely on an exciting AI project — mobile game with AI NPC </b>
 
 - 📫 How to reach me <a href="mailto:d.krivushkina@gmail.com"> d.krivushkina@gmail.com </a>
 - ⚡ Fun fact: When I was five I told my parents that I wanted to develop games.
